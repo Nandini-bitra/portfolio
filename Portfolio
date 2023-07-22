@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />"
+</head>
+<body>
+  <header>
+    <h1>NANDINI BITRA</h1>
+      <br>
+      <li><a href="https://www.linkedin.com/in/nandini-bitra-767221275/">
+        <i class="fa-brands fa-linkedin fa-2xl" style="color: yellow;"></i>
+        <h3 style="color: yellow;">LINKEDIN</h3>
+      </a></li>
+      <br>
+      <li><a href="https://github.com/Nandini-bitra">
+        <i class="fa-brands fa-square-github fa-2xl" style="color:orangered;"></i>
+        <h3 style="color: orangered;">GITHUB</h3>
+      </a></li>
+    <p>&emsp;</p>
+    <nav>
+      <ul>
+        <li><a href="profile">Profile</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact @</a></li>
+
+
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <section id="profile">
+        <img src="C:\Users\nandi\Downloads\WhatsApp Image 2023-07-21 at 6.39.53 PM.jpeg" alt="Nandini" width="200px" height="200">
+        <div clsass="profile"></div>
+        </section>
+
+    <section id="about">
+      <h2>About</h2>
+      <p> I am Nandini bitra and I am from eluru in west godavari district,Currently i am pursuing 
+        B.Tech final year in computer science and engineering at ramachandra college of engineering college eluru .Coming 
+        to my technical skills are programming languages,communication skills& My personal skills is i have learn web 
+        developer course from W3SCHOLS.Coming to my strenghs are i am a hard worker and time punctuality and
+         My hobbies are Photography ,Editing & watching movies in free time. My ambition is to get job in software 
+         company.
+      </p>
+    </section>
+    
+    <section id="education">
+      <h2>Education</h2>
+      <div class="education-item">
+        <h4>1. SSC</h4>
+        <p>SCHOOL NAME      : Kasturiba muncipal girls HIGH SCHOOL</p>
+        <P>CGPA             : 9.2</P>
+        <p>PASSED OUT       : 2018</p>
+      </div>
+      <div class="education-item">
+        <h4>2.INTERMEDIATE</h4>
+        <P>COLLEGE    : SRI CHAITNAYA JUNIOR COLLEGE</P>
+        <p>BRANCH     : MPC </p>
+        <P>PERCENTAGE : 98%</P>
+        <p>PASSED OUT : 2020</p>
+      </div>
+      <div class="education-item">
+        <h4> 3. BACHELOR OF TECHNOLOGY</h4>
+        <P>COLLEGE    : RAMACHANDRA COLLEGE OF ENGINEERING COLLEGE</P>
+        <p>BRANCH     : COMPUTER SCIENCE AND ENGINEERING </p>
+        <P>PERCENTAGE : 72%</P>
+        <p>PASSED OUT : 2024</p>
+      </div>
+      <!-- Add more education items as needed -->
+    </section>
+
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <div class="skills-item">
+            <p>MY skills are : 1. I am a hard worker
+                               2. Time leader
+            </p>
+        </div>
+    </section>
+
+    
+    <section id="projects">
+      <h2>Projects</h2>
+      <div class="project">
+        <h3>Project </h3>
+        <p> I have done a software project on spam detection.</p>
+      </div>
+      <div class="project">
+        <h3>Project 2</h3>
+        <p>I have completed a project on artificial intelligence</p>
+      </div>
+      <!-- Add more project divs as needed -->
+    </section>
+    
+    <section id="contact">
+      <h2>Contact</h2>
+      <p><b>PHONE NO  :</b>     7396543161</p>
+      <p><b>EMAIL : </b>nandinibitra54@gmail.com</p>
+      <p><b>DOMAIN EMAIL ID :</b> bitranandini5@gmail.com</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 B.Nandini</p>
+  </footer>
+</body>
+</html>
